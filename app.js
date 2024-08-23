@@ -14,7 +14,7 @@ const server = http.createServer((req, res) => {
 
 
 Hello from Docker!
-Testing Update Version 0.0.3 >> TEST2fff
+Testing Update Version
 `);
   res.end();
 });
