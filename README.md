@@ -30,7 +30,7 @@ and if your request `http://localhost:8080` you'll see the following output:
   \____\_______/
 
 
-Hello from Docker!
+Hello from Docker! t
 
 ```
 
